@@ -1,3 +1,3 @@
-module github.com/smartwalle/ngx
+module github.com/A-little-imagination/ngx
 
-go 1.16
+go 1.13

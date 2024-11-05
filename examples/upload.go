@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/smartwalle/ngx"
+	"github.com/A-little-imagination/ngx"
 )
 
 func main() {

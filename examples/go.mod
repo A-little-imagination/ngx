@@ -1,10 +1,10 @@
-module github.com/smartwalle/ngx/examples
+module github.com/A-little-imagination/ngx/examples
 
 require (
+	github.com/A-little-imagination/ngx v0.0.0
 	github.com/gin-gonic/gin v1.4.0
-	github.com/smartwalle/ngx v0.0.0
 )
 
-replace github.com/smartwalle/ngx => ../
+replace github.com/A-little-imagination/ngx => ../
 
 go 1.12
